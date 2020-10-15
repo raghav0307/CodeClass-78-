@@ -5,10 +5,6 @@
 
 #include <bits/stdc++.h>
 
-#define F first
-#define S second
-#define PB push_back
-
 using namespace std;
 
 typedef long long ll;
