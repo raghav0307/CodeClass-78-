@@ -5,19 +5,11 @@
 
 #include <bits/stdc++.h>
 
-#define F first
-#define S second
-#define PB push_back
-
 using namespace std;
 
 typedef long long ll;
 
 int main(){
-
-	ios_base::sync_with_stdio(false);
-	cin.tie(NULL);
-	cout.tie(NULL);
 
 	string n;
 	cin >> n;
